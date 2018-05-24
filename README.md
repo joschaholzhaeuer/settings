@@ -113,15 +113,15 @@ Settings to remember the setup of my coding workflow and tools
 
 ## Workflow/Tools
 
-### Kommunikation
+### Communication
 - Slack
 - Skype
 
-### Projektmanagement
+### Project Management
 - Meistertask
 - Basecamp
 
-### Zeiterfassung
+### Time Tracking
 - Toggl
 
 ### Coding
@@ -132,6 +132,6 @@ Settings to remember the setup of my coding workflow and tools
 - Cmder
 - NodeJS
 
-### Sonstige
+### Other
 - Todoist
 - Spotify
