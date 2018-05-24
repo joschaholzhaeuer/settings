@@ -2,7 +2,7 @@
 Settings to remember the setup of my coding workflow and tools
 
 ## Visual Studio Code
-``
+```json
 {
   "window.zoomLevel": 1,
   // "editor.fontFamily": "Fira Code",
@@ -74,7 +74,7 @@ Settings to remember the setup of my coding workflow and tools
   "material-icon-theme.showUpdateMessage": false,
   "workbench.sideBar.location": "left"
 }
-``
+```
 
 ## Chrome
 
