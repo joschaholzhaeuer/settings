@@ -2,6 +2,8 @@
 Settings to remember the setup of my coding workflow and tools
 
 ## Visual Studio Code
+
+### User settings
 ```json
 {
   "window.zoomLevel": 1,
@@ -75,6 +77,26 @@ Settings to remember the setup of my coding workflow and tools
   "workbench.sideBar.location": "left"
 }
 ```
+
+### Extensions
+- Alignment
+- Auto Close Tag
+- Auto Rename Tag
+- Bookmarks
+- Bracket Pair Colorizer
+- Color Highlight
+- German Language Pack
+- Guides
+- htmltagwrap
+- JavaScript and TypeScript IntelliSense
+- Lorem Ipsum
+- Markdown All in One
+- Material Icon Theme
+- Material Theme
+- PHP IntelliSense
+- Project Manager
+- SCSS IntelliSense
+- Twig Language 2
 
 ## Chrome
 
