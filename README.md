@@ -98,9 +98,18 @@ Settings to remember the setup of my coding workflow and tools
 - SCSS IntelliSense
 - Twig Language 2
 
-## Chrome
-
-## Cmder
+## Chrome Extensions
+- Adblock Plus
+- Devbase
+- DevTools Author
+- Eye Dropper
+- LastPass
+- FireShot
+- Page Ruler
+- React Developer Tools
+- VueJS DevTools
+- Wappalyzer
+- uBlock Origin
 
 ## Workflow/Tools
 
